@@ -1,0 +1,5 @@
+# bin2byte
+
+This script takes a binary or shellcode file as input argument and outputs a C# byte array definition.
+
+Primary use of it is to input the script's output to e.g. https://gist.github.com/analyticsearch/dee9efffa463c61c64a1d5bba5609c51
